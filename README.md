@@ -1,1 +1,0 @@
-# samos-object-system
